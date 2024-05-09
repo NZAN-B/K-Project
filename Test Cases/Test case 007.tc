@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing testcase push on git repo</description>
+   <name>Test case 007</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>caced3bc-2a62-4320-8dd0-a23136abd29f</testCaseGuid>
+</TestCaseEntity>
