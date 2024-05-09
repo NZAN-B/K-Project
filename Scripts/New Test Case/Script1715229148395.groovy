@@ -21,9 +21,9 @@ WebUI.acceptAlert()
 
 WebUI.acceptAlert()
 
-WebUI.acceptAlert()
+WebUI.setEncryptedText(findTestObject(null), '')
 
 WebUI.acceptAlert()
 
-WebUI.acceptAlert()
+WebUI.authenticate('', '', '', 0)
 
